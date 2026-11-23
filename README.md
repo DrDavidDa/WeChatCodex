@@ -6,6 +6,8 @@
 
 这个项目把个人微信接到本机 `codex` CLI，不走 OpenClaw Gateway，不需要公网 IP，也不需要域名。整体方法受到文章《在微信里使用 Claude Code，刚刚在 GitHub 上开源了这个 Skill。》启发，但执行层改成了 Codex CLI，并针对 Codex 的运行模型做了适配。
 
+> 作者：[AI大同学](https://aifellow.ai) ｜ 上手记录：[我把 Codex 接进了微信](https://aifellow.ai/articles/tc01)
+
 ## 最新更新
 
 - 已支持微信图片、语音、音频文件、视频消息
